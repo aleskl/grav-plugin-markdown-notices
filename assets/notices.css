@@ -6,8 +6,8 @@
     border-radius: 3px;
 }
 
-.notices p {
-    margin: 0;
+.notices p,ul,ol {
+    margin-bottom: 0;
 }
 
 .notices.yellow {
